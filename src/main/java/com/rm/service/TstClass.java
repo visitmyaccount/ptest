@@ -23,7 +23,7 @@ public class TstClass {
     public static void main(String[] args) {
            createRooms(); 
            printRooms();
-//        createUsers();
+        createUsers();
 //        printUsers();
 //        createMapping();
         getRoomUsers();
