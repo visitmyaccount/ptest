@@ -21,8 +21,8 @@ public class TstClass {
     static RoomService roomService = new RoomService();
 
     public static void main(String[] args) {
-           createRooms();
-//           printRooms();
+           createRooms(); 
+           printRooms();
 //        createUsers();
 //        printUsers();
 //        createMapping();
